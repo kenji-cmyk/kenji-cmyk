@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20cuong--sadboi-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hello%2C%20anh%20khoi-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-  <h1>🌌 Welcome to my universe!</h1>
+  <h1>Anh Khoi</h1>
   <h3>Backend Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
@@ -69,15 +69,9 @@
 
 ---
 
-### GitHub Analytics & Streak
+### GitHub Stats & Streak
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kenji-cmyk&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
-  
-  <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenji-cmyk&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
@@ -97,13 +91,5 @@
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://github.com/kenji-cmyk/kenji-cmyk/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 
 
