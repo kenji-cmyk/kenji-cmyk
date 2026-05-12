@@ -73,15 +73,8 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenji-cmyk&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenji-cmyk&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
-  </a>
 
-  <br>
+ <br>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=kenji-cmyk&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
