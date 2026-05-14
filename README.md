@@ -42,22 +42,56 @@
 ---
 
 ### Tech Stack
+
+#### Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+
+#### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</div>
+
+#### Database
+<div align="center">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+#### Messaging & Communication
+<div align="center">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-0F9D58?style=for-the-badge&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+#### DevOps & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MinIO-000000?style=for-the-badge&logo=minio&logoColor=white"/>
+</div>
+
+#### Testing
+<div align="center">
   <img src="https://img.shields.io/badge/Testing-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white"/>
+</div>
+
+---
+
+### Skills
+
+<div align="center">
+
+**REST API Design** • **Authentication & Authorization** • **Message Queue Integration**
+
+**Event-driven Architecture** • **Database Design** • **Dockerization** • **Git Workflow**
+
 </div>
 
 ---
