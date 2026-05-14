@@ -16,7 +16,14 @@
 
 ### About Me
 
-*Backend Developer focusing on building scalable backend services with **Spring Boot** and **Java**. Strong experience in **Java**, **React**, **MS SQL Server**, RESTful API design, and testing. Based in Binh Tân, Ho Chi Minh — open to collaboration and opportunities.*
+Backend-focused Software Engineer passionate about building scalable and maintainable systems using Spring Boot, Redis, RabbitMQ, Docker, and modern backend architectures.
+
+Experienced in authentication and authorization systems including JWT authentication, 2FA, and RBAC. Interested in clean architecture, performance optimization, scalable API design, and backend reliability.
+
+Built systems involving WebSocket communication, gRPC service integration, asynchronous processing, and automated meeting bots using Playwright for audio streaming and real-time processing workflows.
+
+Currently exploring fintech-oriented backend engineering, distributed systems, AI integrations (RAG, embeddings, model orchestration), and DevOps deployment workflows.
+
 
 [Download CV](BE_ENG.pdf)
 
