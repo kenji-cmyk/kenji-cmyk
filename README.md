@@ -163,16 +163,6 @@ I am a backend developer focused on building reliable services with **Java**, **
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kenji-cmyk&theme=radical" alt="GitHub stats summary" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenji-cmyk&theme=radical" alt="Top repository languages" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenji-cmyk&theme=radical" alt="Most committed languages" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kenji-cmyk&theme=radical&utcOffset=7" alt="Productive coding time" />
-</div>
-
-<div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=kenji-cmyk&theme=radical&hide_border=true&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=00D4FF" alt="GitHub streak" />
   </a>
