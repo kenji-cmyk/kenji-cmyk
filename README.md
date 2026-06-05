@@ -159,12 +159,6 @@ I am a backend developer focused on building reliable services with **Java**, **
 </div>
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kenji-cmyk&theme=radical&hide_border=true&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=00D4FF" alt="GitHub streak" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenji-cmyk&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=F700FF&point=FFFFFF" alt="GitHub activity graph" />
 </div>
 
