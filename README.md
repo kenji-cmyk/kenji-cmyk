@@ -159,10 +159,6 @@ I am a backend developer focused on building reliable services with **Java**, **
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenji-cmyk&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D4FF&line=F700FF&point=FFFFFF" alt="GitHub activity graph" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenji-cmyk&theme=radical" alt="GitHub profile details" />
 </div>
 
